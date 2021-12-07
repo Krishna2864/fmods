@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ptz#irtv!_q=@4l=^zu#c0f7j0%sejx7zpllziq1=#r!sbwg)7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['knowyoursal.herokuapp.com' ]
 
 
 # Application definition
